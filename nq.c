@@ -1,3 +1,5 @@
+// Problem: The Mos Eisley Cantina needs a simple system to manage drink orders. Given an array representing a sequence of drink orders (e.g., ["Blue Milk", "Jawa Juice", "Spotchka"]),
+// write a function to print the orders in the order they were received. 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
